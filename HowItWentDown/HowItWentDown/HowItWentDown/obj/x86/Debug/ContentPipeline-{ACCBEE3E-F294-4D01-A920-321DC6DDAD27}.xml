@@ -1,19 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>photo.JPG</Source>
+      <Name>photo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\BullWhip\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\Content\photo.xnb</Output>
+      <Time>2013-02-02T12:04:20.964972-05:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{ACCBEE3E-F294-4D01-A920-321DC6DDAD27}</ContentProjectGUID>
       <TargetPlatform>Windows</TargetPlatform>
-      <TargetProfile>Reach</TargetProfile>
+      <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>\\banner.main.ad.rit.edu\students\crb9826\igmprofile\documents\visual studio 2010\Projects\HowItWentDown\HowItWentDown\HowItWentDownContent\</RootDirectory>
-      <LoggerRootDirectory>\\banner.main.ad.rit.edu\students\crb9826\igmprofile\documents\visual studio 2010\Projects\HowItWentDown\HowItWentDown\HowItWentDown\</LoggerRootDirectory>
-      <IntermediateDirectory>\\banner.main.ad.rit.edu\students\crb9826\igmprofile\documents\visual studio 2010\Projects\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>\\banner.main.ad.rit.edu\students\crb9826\igmprofile\documents\visual studio 2010\Projects\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>Z:\BullWhip\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDownContent\</RootDirectory>
+      <LoggerRootDirectory>Z:\BullWhip\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\</LoggerRootDirectory>
+      <IntermediateDirectory>Z:\BullWhip\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>Z:\BullWhip\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
         <Value>2012-08-08T11:16:49.2454663-04:00</Value>

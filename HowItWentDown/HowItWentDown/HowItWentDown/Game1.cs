@@ -20,12 +20,15 @@ namespace HowItWentDown
         SpriteBatch spriteBatch;
         PolygonRect rect;
         BasicEffect basicEffect;
+        Texture2D tex;
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             graphics.PreferredBackBufferWidth = 1280;
             graphics.PreferredBackBufferHeight = 720;
+            graphics.ApplyChanges();
+            Global.Doc = this;
         }
 
         /// <summary>
@@ -51,6 +54,8 @@ namespace HowItWentDown
             rect = new PolygonRect();
             basicEffect = new BasicEffect(GraphicsDevice) { VertexColorEnabled = true, TextureEnabled = true };
             basicEffect.Projection = Matrix.CreateOrthographicOffCenter(0, graphics.GraphicsDevice.Viewport.Width, graphics.GraphicsDevice.Viewport.Height, 0, 0, 1);
+            //basicEffect.
+            tex = Global.LoadTexture("photo");
             // TODO: use this.Content to load your game content here
         }
 
@@ -87,7 +92,8 @@ namespace HowItWentDown
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
             basicEffect.CurrentTechnique.Passes[0].Apply();
-            graphics.GraphicsDevice.DrawUserPrimitives<VertexPositionColorTexture>(PrimitiveType.TriangleStrip, rect.vertices, 0, 2);
+            basicEffect.Texture = tex;
+            graphics.GraphicsDevice.DrawUserPrimitives<VertexPositionColorTexture>(PrimitiveType.TriangleList, rect.vertices, 0, 2);
             // TODO: Add your drawing code here
             base.Draw(gameTime);
         }
