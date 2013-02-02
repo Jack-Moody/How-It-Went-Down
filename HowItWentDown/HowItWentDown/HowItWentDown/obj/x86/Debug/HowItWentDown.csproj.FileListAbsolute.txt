@@ -1,0 +1,6 @@
+\\banner.main.ad.rit.edu\students\crb9826\igmprofile\documents\visual studio 2010\Projects\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\HowItWentDown.exe
+\\banner.main.ad.rit.edu\students\crb9826\igmprofile\documents\visual studio 2010\Projects\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\HowItWentDown.pdb
+\\banner.main.ad.rit.edu\students\crb9826\igmprofile\documents\visual studio 2010\Projects\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\crb9826\igmprofile\documents\visual studio 2010\Projects\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\banner.main.ad.rit.edu\students\crb9826\igmprofile\documents\visual studio 2010\Projects\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\HowItWentDown.exe
+\\banner.main.ad.rit.edu\students\crb9826\igmprofile\documents\visual studio 2010\Projects\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\HowItWentDown.pdb
