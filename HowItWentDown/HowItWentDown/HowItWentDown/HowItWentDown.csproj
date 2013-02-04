@@ -73,6 +73,7 @@
     <Reference Include="System.Net" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Obj.cs" />
     <Compile Include="Global.cs" />
     <Compile Include="PolygonRect.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
