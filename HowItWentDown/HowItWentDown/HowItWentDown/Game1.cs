@@ -21,12 +21,14 @@ namespace HowItWentDown
         PolygonRect rect;
         BasicEffect basicEffect;
         Texture2D tex;
+        RenderTarget2D rendTarg1;
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             graphics.PreferredBackBufferWidth = 1280;
             graphics.PreferredBackBufferHeight = 720;
+            IsMouseVisible = true;
             graphics.ApplyChanges();
             Global.Doc = this;
         }
@@ -51,11 +53,15 @@ namespace HowItWentDown
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            rect = new PolygonRect();
             basicEffect = new BasicEffect(GraphicsDevice) { VertexColorEnabled = true, TextureEnabled = true };
-            basicEffect.Projection = Matrix.CreateOrthographicOffCenter(0, graphics.GraphicsDevice.Viewport.Width, graphics.GraphicsDevice.Viewport.Height, 0, 0, 1);
+            basicEffect.Projection = Matrix.CreateOrthographicOffCenter(0, 1280, 720, 0, 0, 1);
+            //basicEffect.View = Matrix.CreateLookAt(new Vector3(0,400,0), new Vector3(0,400,0), Vector3.Up);
+            //basicEffect.World = 
+            //basicEffect.View = Matrix.CreateOrthographicOffCenter(0, 1280, 720, 0, 0, 1);
             //basicEffect.
             tex = Global.LoadTexture("photo");
+            rect = new PolygonRect(0,0,0,500,375,tex);
+
             // TODO: use this.Content to load your game content here
         }
 

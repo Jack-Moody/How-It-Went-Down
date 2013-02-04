@@ -11,3 +11,10 @@ Z:\BullWhip\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\D
 Z:\BullWhip\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\HowItWentDown.exe
 Z:\BullWhip\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\HowItWentDown.pdb
 Z:\BullWhip\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\Content\photo.xnb
+C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\Content\photo.xnb
+C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\HowItWentDown.exe
+C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\HowItWentDown.pdb
+C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\HowItWentDown.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\HowItWentDown.exe
+C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\HowItWentDown.pdb

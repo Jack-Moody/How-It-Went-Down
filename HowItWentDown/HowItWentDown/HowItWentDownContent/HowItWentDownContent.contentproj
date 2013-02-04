@@ -30,7 +30,7 @@
     <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.VideoImporters, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="photo.JPG">
+    <Compile Include="photo.jpg">
       <Name>photo</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>

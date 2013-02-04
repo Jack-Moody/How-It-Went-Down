@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>Z:\BullWhip\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\Content\photo.xnb</Output>
-      <Time>2013-02-02T12:04:20.964972-05:00</Time>
+      <Output>C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\Content\photo.xnb</Output>
+      <Time>2013-02-04T01:29:08.4639304-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -17,10 +17,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>Z:\BullWhip\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDownContent\</RootDirectory>
-      <LoggerRootDirectory>Z:\BullWhip\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\</LoggerRootDirectory>
-      <IntermediateDirectory>Z:\BullWhip\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>Z:\BullWhip\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDownContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -48,8 +48,8 @@
         <Value>2011-09-01T16:22:30-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2012-08-08T11:16:49.2454663-04:00</Value>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-19T03:48:22.6182378-04:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
