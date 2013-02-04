@@ -18,3 +18,10 @@ C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\How
 C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\HowItWentDown.exe
 C:\Users\Chris\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\HowItWentDown.pdb
+D:\Users\jkm9783\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\Content\photo.xnb
+D:\Users\jkm9783\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\HowItWentDown.exe
+D:\Users\jkm9783\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\bin\x86\Debug\HowItWentDown.pdb
+D:\Users\jkm9783\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\jkm9783\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\jkm9783\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\HowItWentDown.exe
+D:\Users\jkm9783\Documents\GitHub\How-It-Went-Down\HowItWentDown\HowItWentDown\HowItWentDown\obj\x86\Debug\HowItWentDown.pdb
